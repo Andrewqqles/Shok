@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>Сергей</title>
+        <link rel="stylesheet" href="scc"
+    </head>
+    <body>
+      <h1>Сергей Рассказов</h1>
+      <img width="250"src="Photos for website/SergoR.jpg">
+      <p>Человек - праздник, который своим присутсвием может рассмешаить любого,
+         трюдага в рабочую неделю и фрешмэн на выходных.</p>
+      <hr>
+      <p>Любимая цитата -<q><i>Неразборчивый крик, от которого становится смешно.</i></q></p>
+      <p><a href="Выпуск2019">Назад</a></p>
+    </body>
+</html>
